@@ -13,7 +13,7 @@ For example: 1 2 0 3 4 0 5 6 -1
 
 The program will then form a simplicial complex using this data where the vertices are the subsets and we form an N-1 simplex whenever N subsets have a nonempty intersection. By counting the number of simplices in each dimension and then taking an alternating sum, we determine the Euler characteristic.
 
-## findHomology
+## homology
 
 Program used to compute rational homology groups.
 
