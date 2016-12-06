@@ -1,6 +1,6 @@
 # Boolean Formulae, Hypergraphs and Combinatorial Topology
 
-A collection of C++ programs used for the following article: http://arxiv.org/abs/0808.0739 .
+A collection of C++ programs developed for the following article: http://arxiv.org/abs/0808.0739 .
 The descriptions are given below.
 
 ## findEuler
