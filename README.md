@@ -5,7 +5,7 @@ The descriptions are given below.
 
 ## findEuler
 
-Program used to compute Euler characteristics for the following article: http://arxiv.org/abs/0808.0739 .
+Program used to compute Euler characteristics.
 
 As input we take a text file containing a collection of same sized subsets of the positive integers. Each separated with a 0 and a -1 to denote the end of that collection.
 
@@ -15,7 +15,7 @@ The program will then form a simplicial complex using this data where the vertic
 
 ## findHomology
 
-Program used to compute rational homology groups for the following article: http://arxiv.org/abs/0808.0739 .
+Program used to compute rational homology groups.
 
 As input we take a text file containing a collection of same sized subsets of the positive integers. Each separated with a 0 and a -1 to denote the end of that collection.
 
@@ -25,7 +25,7 @@ The program will then form a simplicial complex using this data where the vertic
 
 ## smoosher
 
-Program used to compute homotopy types for the following article: http://arxiv.org/abs/0808.0739 .
+Program used to compute homotopy types.
 
 As input we take a text file containing a collection of same sized subsets of the positive integers. Each separated with a 0 and a -1 to denote the end of that collection.
 
